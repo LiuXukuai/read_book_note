@@ -1,9 +1,8 @@
 ---
-title: read book note
+title: 《刻意练习》
 tags: 刻意练习
-renderNumberedHeading: true
-grammar_cjkRuby: true
 ---
 
-##### 《刻意练习》 书籍阅读笔记
-this is test
+#### 《刻意练习》 书籍阅读笔记
+1、234
+2、 345
